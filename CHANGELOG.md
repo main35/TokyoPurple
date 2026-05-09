@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.1
+This update adds support for IntelliJ 2026.2.
+
 ## 1.1.0
 This update has significant improvements to the theme.
 The theme is now based on all the proper, new IntelliJ Islands theme aspects.

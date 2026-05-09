@@ -3,8 +3,7 @@
   <id>com.asboy2035.tokyo-purple</id>
   <name>Tokyo Purple</name>
   <vendor email="ash@a35.dev" url="https://github.com/main35/TokyoPurple">a35hie</vendor>
-  <version>1.1.0</version>
-  <idea-version since-build="253" until-build="261.*"/>
+
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
@@ -12,8 +11,8 @@
     <themeProvider id="com.a35hie.tokyodark-purple-leg" path="/themes/TokyoDark-Purple.theme.json"/>
     <themeProvider id="com.a35hie.tokyodark-purple-uni" path="/themes/TokyoDark-Purple-Uniform.theme.json"/>
 
-    <themeProvider id="com.a35hie.tokyolight-purple" path="/themes/TokyoLight-Purple-New.theme.json" />
+    <themeProvider id="com.a35hie.tokyolight-purple" path="/themes/TokyoLight-Purple-New.theme.json"/>
     <themeProvider id="com.a35hie.tokyolight-purple-leg" path="/themes/TokyoLight-Purple.theme.json"/>
-    <themeProvider id="com.a35hie.tokyolight-purple-uni" path="/themes/TokyoLight-Purple-Uniform.theme.json" />
+    <themeProvider id="com.a35hie.tokyolight-purple-uni" path="/themes/TokyoLight-Purple-Uniform.theme.json"/>
   </extensions>
 </idea-plugin>
