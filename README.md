@@ -1,7 +1,7 @@
 # Tokyo Purple
 
-![Dark Mode Screenshot](/images/TokyoDark-Purple-new.png)
-![Light Mode Screenshot](/images/TokyoLight-Purple.png)
+![Dark Mode Screenshot](/images/TokyoDark-Purple-new.jpeg)
+![Light Mode Screenshot](/images/TokyoLight-Purple.jpeg)
 
 [Get on JetBrains Marketplace](https://l.a35.dev/tpurpij)
 
