@@ -8,11 +8,9 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="com.a35hie.tokyodark-purple" path="/themes/TokyoDark-Purple-New.theme.json"/>
-    <themeProvider id="com.a35hie.tokyodark-purple-leg" path="/themes/TokyoDark-Purple.theme.json"/>
     <themeProvider id="com.a35hie.tokyodark-purple-uni" path="/themes/TokyoDark-Purple-Uniform.theme.json"/>
 
     <themeProvider id="com.a35hie.tokyolight-purple" path="/themes/TokyoLight-Purple-New.theme.json"/>
-    <themeProvider id="com.a35hie.tokyolight-purple-leg" path="/themes/TokyoLight-Purple.theme.json"/>
     <themeProvider id="com.a35hie.tokyolight-purple-uni" path="/themes/TokyoLight-Purple-Uniform.theme.json"/>
   </extensions>
 </idea-plugin>

@@ -1,4 +1,4 @@
-# Tokyo Purple
+# Tokyo Purple for IntelliJ
 
 ![Dark Mode Screenshot](/images/TokyoDark-Purple-new.jpeg)
 ![Light Mode Screenshot](/images/TokyoLight-Purple.jpeg)
@@ -13,10 +13,10 @@ Note: this theme is currently designed primarily for HTML/CSS/JS, Vue/Nuxt, and 
 
 ## Features
 - Deep purple-tinted UI theme
-- Fleet-inspired syntax highlighting
+- Fleet-inspired syntax highlighting (RIP Fleet 🕊️)
 - Sleek, modern look with excellent contrast
 - Designed for focus and minimal eye strain
-- Supports IntelliJ IDEA, WebStorm, PyCharm, CLion, Fleet, and other JetBrains IDEs
+- Supports IntelliJ IDEA, WebStorm, PyCharm, CLion, and other JetBrains IDEs
 
 ## Credits
 Inspired by:

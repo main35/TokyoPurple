@@ -3,8 +3,8 @@
     <option name="ADDED_LINES_COLOR" value="006400"/>
     <option name="ANNOTATIONS_COLOR" value="4B0082"/>
     <option name="CARET_COLOR" value="000000"/>
-    <option name="CARET_ROW_COLOR" value="#C5B7F6"/>
-    <option name="CONSOLE_BACKGROUND_KEY" value="#C5B7F6"/>
+    <option name="CARET_ROW_COLOR" value="#DCD3FB"/>
+    <option name="CONSOLE_BACKGROUND_KEY" value="#DCD3FB"/>
     <option name="DELETED_LINES_COLOR" value="8B0000"/>
     <option name="DIAGRAM_ANNOTATION_EDGE" value="4B0082"/>
     <option name="DIAGRAM_DEFAULT_EDGE" value="2F4F4F"/>
@@ -34,7 +34,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="4B0082"/>
     <option name="FILESTATUS_SWITCHED" value="B22222"/>
     <option name="FILESTATUS_UNKNOWN" value="4B0082"/>
-    <option name="GUTTER_BACKGROUND" value="#C5B7F6"/>
+    <option name="GUTTER_BACKGROUND" value="#DCD3FB"/>
     <option name="INDENT_GUIDE" value="9A7AA0"/>
     <option name="INFORMATION_HINT" value="6A5ACD"/>
     <option name="LINE_NUMBERS_COLOR" value="4B0082"/>

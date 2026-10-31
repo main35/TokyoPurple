@@ -1,4 +1,19 @@
 # Changelog
+## 1.2.0
+This update adds support for IntelliJ 2026.3 and improves both light and dark mode versions of the theme.
+
+### Deprecated
+- TokyoPurple Light/Dark Legacy has been deprecated and removed
+
+### Updated
+- Run buttons have improved coloring
+- File tree highlights have been improved in both light/dark
+- Removed phantom borders around elements
+- Major coloring improvements to light mode (better light mode is still WIP)
+- Slightly more subtle canvas/panel separation
+- Tab coloring fixes
+- Button hover/pressed coloring fixes
+
 ## 1.1.1
 This update adds support for IntelliJ 2026.2.
 
